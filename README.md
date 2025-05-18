@@ -1,12 +1,88 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 SoftSell – Landing Page
 
-Currently, two official plugins are available:
+A modern, responsive, single-page marketing website built for **SoftSell**, a fictional software resale startup.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is developed as part of the **Credex Web Development Internship Assignment** to demonstrate frontend skills, UI/UX design thinking, and animation integration using modern frontend tools.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Live Demo
+
+🔗 [Live Site] => (https://softshell-jade.vercel.app/)  
+📁 [GitHub Repository] => (https://github.com/sudarsan29/Softshell)
+
+---
+
+## 📦 Tech Stack
+
+- ⚛️ React.js (with Vite)
+- 🎨 Tailwind CSS
+- 🎞️ Framer Motion (for animations)
+- 🧠 React Icons
+- 🌐 Hosted on Vercel
+
+---
+
+## ✅ Features Implemented
+
+### ✅ Core Assignment Features
+
+1. **Hero Section**
+   - Headline, subheading, and a strong CTA button (“Sell My Licenses”)
+   - Animated text and entrance animation
+
+2. **How It Works**
+   - Three-step visual process: Upload → Valuation → Get Paid
+   - Animated cards with hover effects and icons
+
+3. **Why Choose Us**
+   - Three compelling points using tiles, icons, and hover effects
+   - Smooth animations using Framer Motion
+
+4. **Customer Testimonials**
+   - 6 client reviews with side-scrollable layout
+   - Realistic dummy names, companies, and mixed 4⭐, 4.5⭐, and 5⭐ ratings
+
+5. **Contact / Lead Form**
+   - Name, Email, Company, License Type (dropdown), and Message
+   - Frontend validation using HTML5 + Tailwind
+   - Interactive input field animations
+
+---
+
+## 💡 Design Choices
+
+- **Color Palette**: Clean white background with contrasting accent hover states in blue and purple tones
+- **Typography**: Modern sans-serif fonts for readability
+- **Layout**: Mobile-first design with responsive stacking for smaller screens
+- **UX Enhancements**:
+  - Hover feedback on cards
+  - Smooth transitions and animations
+  - Side scroll for testimonials for better engagement
+
+---
+
+## 🧪 How to Run Locally
+
+npm install
+npm run dev
+
+## Open in browser:
+
+http://localhost:5173
+
+## Acknowledgements:
+
+* React
+* Tailwind CSS
+* Framer Motion
+* Vercel
+* React Icons
+
+## Contact
+
+* 📧 Email: sudharshansudharshan@gmail.com
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sudharshan-malyavantam/
